@@ -1,13 +1,16 @@
-# Categorisez-automatiquement-des-questions
+# Automatic Categorization of Questions
 
-https://github.com/sdmwd/IML-Open-Classrooms/tree/main/P5%20-%20Cat%C3%A9gorisez%20automatiquement%20des%20questions
+This repository is part of a project aimed at automatically categorizing questions using machine learning techniques. It focuses on preprocessing unstructured data to make it usable, representing high-dimensional data visually, and implementing feature extraction and dimension reduction techniques.
 
- - Compétences évaluées
- 
-   - Prétraiter des données non structurées pour obtenir un jeu de données exploitable
+## Project Details
+- **GitHub Repository**: [Project Repository](https://github.com/sdmwd/IML-Open-Classrooms/tree/main/P5%20-%20Cat%C3%A9gorisez%20automatiquement%20des%20questions)
 
-   - Représenter graphiquement des données à grandes dimensions
+## Competencies Evaluated
 
-   - Mettre en œuvre des techniques d’extraction de features pour des données non structurées
+- **Preprocessing Unstructured Data**: Transforming raw data into a format that can be analyzed and used in machine learning models.
 
-   - Mettre en œuvre des techniques de réduction de dimension
+- **Graphical Representation of High-Dimensional Data**: Utilizing techniques like PCA or t-SNE to visualize data patterns and insights in fewer dimensions.
+
+- **Implementing Feature Extraction Techniques for Unstructured Data**: Applying methods such as NLP, TF-IDF, or word embeddings to extract meaningful features from text data.
+
+- **Implementing Dimension Reduction Techniques**: Using algorithms to reduce the number of random variables under consideration, by obtaining a set of principal variables.
